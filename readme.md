@@ -23,6 +23,7 @@ Tools that generate static ad creatives, product visuals, and brand imagery.
 
 - [AdCreative.ai](https://adcreative.ai) - Generates conversion-focused ad creatives and banners in brand style.
 - [AdRiseLab](https://adriselab.com/product/creative-generation) - Turns product photos into ready-to-run AI ad creatives for Meta Ads, built for performance marketers.
+- [AdRoast](https://www.adroast.ai) - AI ad generator with pre-launch creative scoring (image + video presets). Free [Meta scorecard + TikTok hooks kit](https://github.com/Mustak4/adroast-creative-kit).
 - [Canva Magic Studio](https://www.canva.com/magic/) - AI design suite for generating and editing marketing visuals.
 - [Flair](https://flair.ai) - AI product photography with branded scenes and templates.
 - [Icon](https://icon.com) - AI admaker that generates, scripts, and edits ads end to end.
