@@ -73,6 +73,7 @@ AI-assisted campaign management, budget optimization, and creative testing.
 
 Ad libraries and research tools for studying what competitors run.
 
+- [AdMapix](https://www.admapix.com) - Searches competitor ad creatives across Meta, TikTok, Google, and other channels, with AI analysis and research reports.
 - [Foreplay](https://www.foreplay.co) - Saves, organizes, and briefs ads from Meta and TikTok ad libraries.
 - [Google Ads Transparency Center](https://adstransparency.google.com) - Official library of ads running across Google surfaces.
 - [MagicBrief](https://magicbrief.com) - Ad inspiration library and creative analytics for performance teams.
