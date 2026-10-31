@@ -39,6 +39,7 @@ AI avatars, UGC-style video ads, and generative video for paid social.
 - [Captions](https://www.captions.ai) - AI video editing and talking-head video creation optimized for short-form.
 - [Creatify](https://creatify.ai) - Generates video ads and AI avatar UGC from a product URL.
 - [HeyGen](https://www.heygen.com) - AI avatar video generation with multilingual support and API access.
+- [RemakeThat](https://remakethat.com) - Remakes winning TikTok videos into original faceless AI-avatar clips for affiliate sellers.
 - [Higgsfield](https://higgsfield.ai) - Cinematic AI video generation with motion and camera controls.
 - [Kling](https://klingai.com) - High-quality generative video model for realistic product and lifestyle footage.
 - [Luma Dream Machine](https://lumalabs.ai) - Generative video model for fast, realistic clips from text or images.
