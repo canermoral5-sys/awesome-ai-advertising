@@ -42,6 +42,7 @@ AI avatars, UGC-style video ads, and generative video for paid social.
 - [Higgsfield](https://higgsfield.ai) - Cinematic AI video generation with motion and camera controls.
 - [Kling](https://klingai.com) - High-quality generative video model for realistic product and lifestyle footage.
 - [Luma Dream Machine](https://lumalabs.ai) - Generative video model for fast, realistic clips from text or images.
+- [makeaicreator](https://makeaicreator.com) - Face-consistent AI influencer photos and voiceover videos from a plain-language persona, with product-placement scenes for ads.
 - [OpusClip](https://www.opus.pro) - Repurposes long-form video into short clips scored for virality.
 - [Pika](https://pika.art) - Text-to-video and image-to-video generation for short creative clips.
 - [Runway](https://runwayml.com) - Generative video creation and editing suite used for commercial production.
